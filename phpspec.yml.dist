@@ -1,7 +1,6 @@
 suites:
     CustomEntityBundle:
         namespace: Pim\Bundle\CustomEntityBundle
-        src_path: .
 
     AcmeCustomBundle:
         namespace: Acme\Bundle\CustomBundle
